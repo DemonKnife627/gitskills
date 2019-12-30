@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 test
 功能分支测试提交
+这是一个新的功能分支
